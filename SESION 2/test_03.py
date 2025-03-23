@@ -1,0 +1,5 @@
+"""TIPOS DE VARIABLES"""
+"""COMPLEJOS"""
+"""CREANDO VARIABLES"""
+var1= 30+5j
+var2=
